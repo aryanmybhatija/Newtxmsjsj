@@ -2,11 +2,11 @@ import os
 
 class Config(object):
     # Telegram Bot ka token
-    BOT_TOKEN = "7755241058:AAGqRdK0OXThnu0W26F82uKGr6PjCaBvza8"
+    BOT_TOKEN = ""
     # Telegram API ki ID
-    API_ID = 24602445
+    API_ID = 
     # Telegram API ki hash key
-    API_HASH = "180adef97e5d2f8a246f59280ce625b5"
+    API_HASH = ""
     # Admin users ki IDs (comma se separate ki hui)
     ADMIN = '6890400066,5744263553'.split(',')
     # Admin IDs ko integer list mein convert karna
