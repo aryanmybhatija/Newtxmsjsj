@@ -8,7 +8,7 @@ class Config(object):
     # Telegram API ki hash key
     API_HASH = "137dc2742789fc81191a9bf7a25ff922"
     # Admin users ki IDs (comma se separate ki hui)
-    ADMIN = '7385324642'.split(',')
+    ADMIN = '6890400066,5744263553'.split(',')
     # Admin IDs ko integer list mein convert karna
     ADMIN_ID = [int(id) for id in ADMIN]
     # MongoDB database ka URL
@@ -18,7 +18,7 @@ class Config(object):
     # Text log channel ki ID
     TXT_LOG = -1002470171280
     # Authentication log channel ki ID
-    AUTH_LOG = -1002470171280
+    AUTH_LOG = 
     # Hit log channel ki ID
     HIT_LOG = -1002470171280
     # DRM dump channel ki ID
