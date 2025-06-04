@@ -4,9 +4,9 @@ class Config(object):
     # Telegram Bot ka token
     BOT_TOKEN = ""
     # Telegram API ki ID
-    API_ID = 
+    API_ID = 28964382
     # Telegram API ki hash key
-    API_HASH = ""
+    API_HASH = "c552befc21408d4ef175a66cb44cc33c"
     # Admin users ki IDs (comma se separate ki hui)
     ADMIN = '6890400066,5744263553'.split(',')
     # Admin IDs ko integer list mein convert karna
@@ -28,9 +28,9 @@ class Config(object):
     # Channel ka link
     CH_URL = "https://t.me/+jbgZyPCEyYI2ZTdl"
     # Bot ke owner ka Telegram link
-    OWNER = "https://t.me/Contact_adminSbot"
+    OWNER = "https://t.me/Sonuporsa"
     # Thumbnail image ka URL
-    THUMB_URL = "https://telegra.ph/file/example-thumb-image.jpg" #Replace by with your Thumb URL
+    THUMB_URL = "https://myappme.shop/img/file_224.jpg" #Replace by with your Thumb URL
     # API host ka URL
     HOST = "https://www.masterapi.tech/"
 
